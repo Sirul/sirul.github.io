@@ -75,7 +75,8 @@ p.light {
   color: #777;
 }
 a {
-  style: none;
+  text-decoration: none;
+  color: white;
 }
 h2 {
   font-family: 'Open Sans';
