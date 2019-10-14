@@ -74,6 +74,9 @@ body:before {
 p.light {
   color: #777;
 }
+a {
+  style: none;
+}
 h2 {
   font-family: 'Open Sans';
   font-size: 30px;
