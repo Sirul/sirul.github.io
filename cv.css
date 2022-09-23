@@ -112,7 +112,7 @@ h3 {
   margin: false;
   top: false;
   left: 0;
-  right: calc(300px + 3%);
+  right: calc(265px + 3%);
   bottom: 0;
   height: 120px;
   text-align: center;
@@ -133,7 +133,7 @@ h3 {
   left: false;
   right: 3%;
   bottom: 0;
-  width: 300px;
+  width: 265px;
   background-color: #2980b9;
   color: #fff;
   padding: 30px 30px 50px;
@@ -231,7 +231,7 @@ h3 {
 }
 .content-container {
   margin-right: 0;
-  width: calc(95% - 300px);
+  width: calc(95% - 245px);
   padding: 25px 40px 50px;
 }
 .content-container > * {
